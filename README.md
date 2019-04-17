@@ -1,2 +1,1 @@
-# MyScripts-Public
-Scripts shell
+MyScripts
