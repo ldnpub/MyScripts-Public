@@ -16,6 +16,8 @@ fastboot reboot
 adb reboot bootloader
 # On the bootloader screen
 fastboot boot <insert_name_of_TWRP_image_here>.img
+# OR
+fastboot flash <insert_name_of_TWRP_image_here>.img
 # Reboot
 # Install of the MAGISK.ZIP
 
